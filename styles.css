@@ -1,0 +1,12 @@
+#editor,
+#preview{
+    border: 1px solid black;
+    height: 150px;
+    margin: 5px;
+    padding: 15px;
+    width: 700px;
+}
+#preview{
+    overflow: auto;
+    height: 530px;
+}
